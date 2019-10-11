@@ -6,3 +6,11 @@ def f(x):
     print (0)
     
 f(5) 
+
+def x(f):
+  if f<150:
+    print(f)
+  else:
+    print("Το f είναι μεγαλύτερο ή ισο του 150.")
+
+x(160)
